@@ -3,7 +3,7 @@
 
 - I’m learning **SQL Queries & currently enhancing my skills in data storytelling and dashboard building.**
 
-- All of my projects are available at [https://github.com/Sulagna24?tab=repositories](https://github.com/Sulagna24?tab=repositories)
+- All of my projects are available at [https://github.com/sulagnamom?tab=repositories](https://github.com/sulagnamom?tab=repositories)
 
 - How to reach me **sulagnamandal01@gmail.com**
 
